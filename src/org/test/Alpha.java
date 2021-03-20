@@ -5,11 +5,16 @@ private void write() {
 	System.out.println("write");
 
 }
-private void read() {
-	System.out.println("read");
-}
-private void tc0() {
+private void tc0() throws InterruptedException {
 	// TODO Auto-generated method stub
+
+	Thread.sleep(5000);
+private void read() throws InterruptedException {
+	System.out.println("read");
+
+}
+
+
 
 }
 }
