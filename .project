@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+	<name>Samp</name>
+=======
 	<name>Sampl</name>
+>>>>>>> 776bf70f9b13bbe1333aa981ee5f63d73f631bad
 	<comment></comment>
 	<projects>
 	</projects>
