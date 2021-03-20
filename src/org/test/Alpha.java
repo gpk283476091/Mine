@@ -7,6 +7,9 @@ private void write() {
 }
 private void read() {
 	System.out.println("read");
+}
+private void tc0() {
+	// TODO Auto-generated method stub
 
 }
 }
